@@ -24,6 +24,8 @@ namespace Lab3 {
         asdasd
         asdasd
         asdasd
+		asdasdasd
+		asdasd
         asdasd
 
         static int L1_len = 30;
