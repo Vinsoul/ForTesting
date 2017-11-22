@@ -20,7 +20,11 @@ namespace Lab3 {
         static int[] L1 = new int[] { 0, 1, 4, 6 };
         static int[] L2 = new int[] { 0, 3 };
         static int[] L3 = new int[] { 0, 1, 2, 3, 5, 7 };
-
+        asdasd
+        asdasd
+        asdasd
+        asdasd
+        asdasd
 
         static int L1_len = 30;
         static int L2_len = 31;
